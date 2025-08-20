@@ -1,0 +1,8 @@
+employee_id,department,region,performance_score,years_experience,satisfaction_rating
+EMP001,HR,Middle East,88.55,8,4.3
+EMP002,HR,Middle East,93.92,10,4
+EMP003,Sales,Asia Pacific,65.41,2,3.8
+EMP004,IT,Africa,88.76,3,4.4
+EMP005,Sales,North America,80.53,3,4
+EMP006,Operations,Europe,72.12,4,3.9
+EMP007,Operations,Europe,78.00,6,4.1
